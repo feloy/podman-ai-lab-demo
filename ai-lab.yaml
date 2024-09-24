@@ -23,5 +23,5 @@ application:
         - arm64
         - amd64
       ports:
-        - 8501
+        - 5000
       image: quay.io/phmartin/search-podman-desktop-app:latest
